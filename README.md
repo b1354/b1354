@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @b1354
-- 👀 I’m interested in noting '-'
-- 🌱 I’m currently learning front end web dev (hopely become a fullstack) 
-- 💞️ I’m looking to collaborate on ...
+i use javascript ☕
 <!--- - 📫 How to reach me ... --->
 
 <!---
