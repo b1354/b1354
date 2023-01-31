@@ -1,4 +1,4 @@
-i use javascript ☕
+tryin to be fullstack web dev
 <!--- - 📫 How to reach me ... --->
 
 <!---
