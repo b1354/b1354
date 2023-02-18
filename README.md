@@ -1,4 +1,4 @@
-tryin to be fullstack web dev
+tryin to be fullstack web developer 🚀
 <!--- - 📫 How to reach me ... --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1354&theme=tokyonight&layout=compact)](https://github.com/b1354/github-readme-stats)
